@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abd-Alrhman Khashashneh</h1>
-<div style="display:flex;">
+<div style="display:flex; width:100px;">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="50%" />
   <img src="https://media.tenor.com/K2izLCpF2MgAAAAd/responsive-web-design.gif" width="50%" />
 </div>
