@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abd-Alrhman Khashashneh</h1>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="100%" />
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="50%" />
 <h3 align="center">full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications. Over two years of experience in web development, including frontend and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrhmankhashashneh&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhmankhashashneh" /> </p>
