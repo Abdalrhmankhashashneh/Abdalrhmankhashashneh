@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+Abd-Alrhman+Khashashneh;Full+Stack+Developer;Passionate+About+Creating+Amazing+Web+Apps!" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -29,7 +27,7 @@
 
 <div align="center">
   <h3>🚀 Full Stack Developer with a passion for learning new technologies</h3>
-  <h3>💻 Over 2+ years of experience in web development</h3>
+  <h3>💻 Over 5+ years of experience in web development</h3>
   <h3>🌟 Frontend and Backend technologies enthusiast</h3>
   <h3>🤝 Love working with teams to create user-friendly applications</h3>
   <h3>📈 Eager to grow skills in fast-paced environments</h3>
