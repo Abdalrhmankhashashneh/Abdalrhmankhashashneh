@@ -27,7 +27,7 @@
 
 <div align="center">
   <h3>🚀 Full Stack Developer with a passion for learning new technologies</h3>
-  <h3>💻 Over 2+ years of experience in web development</h3>
+  <h3>💻 Over 5+ years of experience in web development</h3>
   <h3>🌟 Frontend and Backend technologies enthusiast</h3>
   <h3>🤝 Love working with teams to create user-friendly applications</h3>
   <h3>📈 Eager to grow skills in fast-paced environments</h3>
